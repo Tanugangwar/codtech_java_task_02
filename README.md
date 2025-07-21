@@ -2,10 +2,10 @@
 
 
 
-🎯 Objective
+🎯 Objective:
 Build a Java application that connects to a public RESTful API—such as WeatherAPI—to fetch and display real-time weather information in a clean, structured format using Java’s built-in networking tools and JSON parsing libraries.
 
-✨ Key Features
+✨ Key Features:
 ✅ HTTP Communication: Uses HttpURLConnection to send GET requests to the API.
 ✅ Dynamic JSON Parsing: Extracts city, country, temperature, and weather condition using org.json.
 ✅ Real-Time Weather Info: Displays accurate and up-to-date weather data.
