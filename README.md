@@ -35,4 +35,16 @@ javac -cp ".;libs/json.jar" src/Main.java
 5. ▶️ Run the Application
 java -cp ".;libs/json.jar;src" Main
 
+📌 Sample Output
+🔎 Fetching weather data...
+
+📍 Location: London, United Kingdom
+🌡️ Temperature: 18.2 °C
+⛅ Condition: Partly cloudy
+
+🙋 Author
+👩‍💻 Name: [Tanu gangwar]
+🎓 Internship: CODTECH Java Internship
+📅 Task: Task-2 (REST API Client)
+
 📌 Note: Use : instead of ; on macOS/Linux for classpath separation.
